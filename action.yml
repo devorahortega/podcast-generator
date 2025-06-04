@@ -1,5 +1,5 @@
 name: "Podcast Generator"
-author: "Devorah Nina Ortega"
+author: "Devorah Nina Ortega (Project from Ray Villalobos)"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
   using: "docker"
